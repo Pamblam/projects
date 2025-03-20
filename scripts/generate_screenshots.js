@@ -14,6 +14,8 @@ await page.setViewport({
 for(let i=0; i<projects.length; i++){
 	let filename = projects[i].img ? projects[i].img : projects[i].name.toLowerCase().replaceAll(/[^a-z0-9_ ]/g, '').replaceAll(' ', '-')+'.png';
 	
+	if (fs.existsSync(`imgs/${filename}`)) continue;
+
 	await page.goto(projects[i].url, {
 		waitUntil: 'networkidle2',
 	});

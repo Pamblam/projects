@@ -1,5 +1,11 @@
 [
   {
+	"name": "The CRM",
+    "url": "https://www.callcenterelite.com/crm.html",
+    "technologies": "PHP, Javascript, Apache",
+    "description": "Take advantage of the new CustomerTrack Platfom CRM tool. Our exclusive customer tracking software provides all the tools you need in one easily accessible location. Our easy to use software provides an appointment calendar and reminder service, customized PDF letter and label printing, centralized email solutions, activity tracking, online application service, customer profiles and much more - from the palm of your hand!",
+    "img": "inventory-manager.png"
+  },{
     "name": "Inventory Manager",
     "url": "https://github.com/Pamblam/InventoryManager",
     "technologies": "C#, .NET, Window's Forms, Visual Studio",
@@ -213,7 +219,7 @@
     "name": "jSQL: The official Javascript Query Language",
     "url": "https://pamblam.github.io/jSQL/",
     "technologies": "Javascript, SQL",
-    "description": "A full featured, persistent SQL implementation written entirely in Jaavscript.",
+    "description": "A full featured, persistent SQL implementation written entirely in Javascript.",
     "img": "jsql-the-official-javascript-query-language.png"
   },
   {
