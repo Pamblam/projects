@@ -1,0 +1,493 @@
+Using the following job description, resume, and project list, please create a cover letter tailored to the given job description. Include the most relevant details from the provided resume and project list. Please format the cover letter in HTML as a complete HTML document including any CSS. The HTML will be converted to a PDF so please do not use any links.
+
+# Job Description 
+
+ROBERT PARHAM
+adelphia@protonmail.ch | Tampa Bay, FL | (813) 616-0819
+linkedin.com/in/robert-parham | robert-parham.com | github.com/pamblam
+
+An experienced Software Engineer and Front-End Developer with a extensive background creating an enhanced End-User Experience across web and mobile digital touch points. Heightened communication skills and advanced technical capabilities in a variety of environments support an ability to manage resources, determine end-user requirements and collaborate in team-centric, outcome-focused efforts. Progressive programming and coding abilities deploying a wide range of platforms complement client-focused design capabilities; elevating and energizing seamless and responsive usability.
+
+
+VALUE ADDED SKILLS
+
+Full Stack Design | Project Management | UI / UX | Web Design | Mobile App Development | UAT | Software Development | User Requirements Analysis | Quality Assurance | Stakeholder Relationship Management | Iterative Prototypes | Server Administration | Troubleshooting | Infrastructure Design | Web Design | Client Relationship Management | Local Area Networks | Product Design and Development
+
+
+PROFESSIONAL EXPERIENCE
+
+MINIBEAST ENTERPRISES
+Orlando, FL | Full Stack Programmer | October 2021 – Present
+
+Profiled by Fox News, CBS, USA Today and Cosmopolitan magazine, a holistic health and wellness enterprise where I successfully:
+
+    Innovated a hybrid mobile app and web app, using Flutter, Cordova, ReactJS, PHP, MySQL and Bash.
+    Manage and program the Linux and Apache server hosted on Digital Ocean while maintaining the Postmark email service via APIs.
+    Structure the S3 content management system using Digital Ocean.
+    Program and schedule automate backups and maintenance tasks.
+    Designed and iterated app-based social groups modeled after Facebook including a body fat percentage calculator and a guided workout function with demo videos.
+
+
+OUR TOWN AMERICA
+Clearwater, FL | Full Stack Programmer | June 2015 – Present
+
+Part of New Mover Direct Mail Marketing, a leading customer loyalty and digital marketing agency. Driving product development focusing on the user experience, I am responsible for:
+
+    Using LLMs to create functional AI assistant with ability to assist with internal company tasks.
+    Developing client User Stories to design and create iterative UI/UX prototypes.
+    Translating high level technical features into prototype designs.
+    Maintaining three distinct client-facing, internal and internal hybrid mobile web apps using Cordova.
+    Creating mapping software to visualizes various demographic and various other data at Zip Code level.
+    Preparing wireframes, storyboards, process flows and site maps and conduct ongoing user testing to support functionality and usability.
+    Managing ongoing experience, A/B, Functionality and Unit Testing.
+    Building and performing updates to the company’s primary website and landing pages.
+    Generating a CRM software which utilizes Twilio API for telephone communications and HelloSign API to send documents for signing by leads and clients.
+
+
+CARNET MARKETING & CUSTOMER TRACK
+Safety Harbor, FL | Product Manager | June 2010 – June 2015
+
+With responsibility for conceptualizing and launching business development and lead generation platforms for a US-wide network of car dealerships, I:
+
+    Designed, tested, and launched company’s proprietary enterprise CRM deploying an advanced knowledge of, and abilities in PHP and MySQL
+    Wrote the code for the company’s Call Center’s dialer software using Twilio, PHP, JavaScript, and MySQL
+    Built and performed regular updates for the company’s physical Linux and Apache servers.
+
+
+COMPLEMENTARY EXPERIENCE
+
+WESTBAY SOFTWARE LLC
+Tampa Bay, FL | Owner / Developer | January 2005 – Present
+
+A self-directed initiative where working with brands including Elite Marketing, Extreme Bio Clean-up, and Monster Flea Market, I am responsible for:
+
+    Creating hybrid mobile apps using PHP, Twilio, Cordova, PHP, Javascript
+    Designing a sales and marketing app that enables companies to incentivize their customers to refer other customers by offering them cash for verified referrals.
+    Writing and maintaining Call Routing software via Twilio
+    Providing extensive IT maintenance and troubleshooting support.
+
+
+EDUCATION AND CERTIFICATIONS
+
+Western Governor's University | Bachelors of Science, Software Engineering | 2025
+St. Petersburg College | Tarpon Springs, FL | Bachelor of Science in Computer Science (incomplete)
+Pinellas Technical Institute | Web Design Principles | 2007
+AWS Certified Cloud Practitioner
+CompTIA Project+ Certified
+
+
+TECHNICAL SKILLSETS
+
+MS Office Suite | JavaScript | PHP | Apache | SQL Linux | Twilio | WordPress | HTML5 Bootstrap | Cordova | Flutter | Dart | Python | ReactJS | Bash | VS Code | My SQL Workbench | Libre Office | VS Code | Mac | Linux | Vector Database | LLM | AI
+
+
+AFFILIATIONS
+
+Member in Good Standing of the Free and Accepted Masons of Florida, supporting a number of local charitable and community development organizations.
+
+# Resume
+
+ROBERT PARHAM
+adelphia@protonmail.ch | Tampa Bay, FL | (813) 616-0819
+linkedin.com/in/robert-parham | robert-parham.com | github.com/pamblam
+
+An experienced Software Engineer and Front-End Developer with a extensive background creating an enhanced End-User Experience across web and mobile digital touch points. Heightened communication skills and advanced technical capabilities in a variety of environments support an ability to manage resources, determine end-user requirements and collaborate in team-centric, outcome-focused efforts. Progressive programming and coding abilities deploying a wide range of platforms complement client-focused design capabilities; elevating and energizing seamless and responsive usability.
+
+
+VALUE ADDED SKILLS
+
+Full Stack Design | Project Management | UI / UX | Web Design | Mobile App Development | UAT | Software Development | User Requirements Analysis | Quality Assurance | Stakeholder Relationship Management | Iterative Prototypes | Server Administration | Troubleshooting | Infrastructure Design | Web Design | Client Relationship Management | Local Area Networks | Product Design and Development
+
+
+PROFESSIONAL EXPERIENCE
+
+MINIBEAST ENTERPRISES
+Orlando, FL | Full Stack Programmer | October 2021 – Present
+
+Profiled by Fox News, CBS, USA Today and Cosmopolitan magazine, a holistic health and wellness enterprise where I successfully:
+
+    Innovated a hybrid mobile app and web app, using Flutter, Cordova, ReactJS, PHP, MySQL and Bash.
+    Manage and program the Linux and Apache server hosted on Digital Ocean while maintaining the Postmark email service via APIs.
+    Structure the S3 content management system using Digital Ocean.
+    Program and schedule automate backups and maintenance tasks.
+    Designed and iterated app-based social groups modeled after Facebook including a body fat percentage calculator and a guided workout function with demo videos.
+
+
+OUR TOWN AMERICA
+Clearwater, FL | Full Stack Programmer | June 2015 – Present
+
+Part of New Mover Direct Mail Marketing, a leading customer loyalty and digital marketing agency. Driving product development focusing on the user experience, I am responsible for:
+
+    Using LLMs to create functional AI assistant with ability to assist with internal company tasks.
+    Developing client User Stories to design and create iterative UI/UX prototypes.
+    Translating high level technical features into prototype designs.
+    Maintaining three distinct client-facing, internal and internal hybrid mobile web apps using Cordova.
+    Creating mapping software to visualizes various demographic and various other data at Zip Code level.
+    Preparing wireframes, storyboards, process flows and site maps and conduct ongoing user testing to support functionality and usability.
+    Managing ongoing experience, A/B, Functionality and Unit Testing.
+    Building and performing updates to the company’s primary website and landing pages.
+    Generating a CRM software which utilizes Twilio API for telephone communications and HelloSign API to send documents for signing by leads and clients.
+
+
+CARNET MARKETING & CUSTOMER TRACK
+Safety Harbor, FL | Product Manager | June 2010 – June 2015
+
+With responsibility for conceptualizing and launching business development and lead generation platforms for a US-wide network of car dealerships, I:
+
+    Designed, tested, and launched company’s proprietary enterprise CRM deploying an advanced knowledge of, and abilities in PHP and MySQL
+    Wrote the code for the company’s Call Center’s dialer software using Twilio, PHP, JavaScript, and MySQL
+    Built and performed regular updates for the company’s physical Linux and Apache servers.
+
+
+COMPLEMENTARY EXPERIENCE
+
+WESTBAY SOFTWARE LLC
+Tampa Bay, FL | Owner / Developer | January 2005 – Present
+
+A self-directed initiative where working with brands including Elite Marketing, Extreme Bio Clean-up, and Monster Flea Market, I am responsible for:
+
+    Creating hybrid mobile apps using PHP, Twilio, Cordova, PHP, Javascript
+    Designing a sales and marketing app that enables companies to incentivize their customers to refer other customers by offering them cash for verified referrals.
+    Writing and maintaining Call Routing software via Twilio
+    Providing extensive IT maintenance and troubleshooting support.
+
+
+EDUCATION AND CERTIFICATIONS
+
+Western Governor's University | Bachelors of Science, Software Engineering | 2025
+St. Petersburg College | Tarpon Springs, FL | Bachelor of Science in Computer Science (incomplete)
+Pinellas Technical Institute | Web Design Principles | 2007
+AWS Certified Cloud Practitioner
+CompTIA Project+ Certified
+
+
+TECHNICAL SKILLSETS
+
+MS Office Suite | JavaScript | PHP | Apache | SQL Linux | Twilio | WordPress | HTML5 Bootstrap | Cordova | Flutter | Dart | Python | ReactJS | Bash | VS Code | My SQL Workbench | Libre Office | VS Code | Mac | Linux | Vector Database | LLM | AI
+
+
+AFFILIATIONS
+
+Member in Good Standing of the Free and Accepted Masons of Florida, supporting a number of local charitable and community development organizations.
+
+# Projects
+
+Inventory Manager
+https://github.com/Pamblam/InventoryManager
+An inventory manager tool for a small shop business.
+tech used: C#, .NET, Window's Forms, Visual Studio
+
+Sudoku Solver
+https://github.com/Pamblam/sudoku-solver
+A command line tool to solve Sudoku puzzles.
+tech used: Dart
+
+Fuckit
+https://github.com/Pamblam/fuckit
+A light, portable, themable blogging software written as a Single Page Application.
+tech used: PHP, Apache, SQLite, Javascript, React
+
+iCloud Downloader
+https://github.com/Pamblam/icloud_downloader
+Uses a headless browser to log into iCloud, download all photos, and then delete them from iCloud.
+tech used: Node, NPM, Javascript, Puppeteer
+
+Animate.js
+https://github.com/Pamblam/animate.js
+A minimal function to animate elements in the browser with specific easings.
+tech used: CSS, Javascript
+
+Finder Clone
+https://github.com/Pamblam/finder-clone
+A functional in-browser clone of Mac's Finder app.
+tech used: CSS, Javascript
+
+File-input.js
+https://github.com/Pamblam/file-input
+The best, easiest way to accept and handle user-inputted files in the browser.
+tech used: Javascript
+
+MoodSense
+https://blog.tadsummit.com/2024/04/11/moodsense/
+An AI therapist app developed for a Hackathon.
+tech used: LLM, RAG, AI, Python, PHP, Bootstrap
+
+Simple MD Parser
+https://github.com/Pamblam/simple-md-parser
+A Simple Markdown to HTML converter.
+tech used: PHP
+
+Python Backend
+https://github.com/Pamblam/python-backend
+A shim to allow Python scripts to handle HTTP requests with Apache, without installing any Apache mods.
+tech used: Python, PHP, Apache
+
+Beat Pam at Words
+https://pamblam.github.io/beat-pam-at-words/
+An overly elaborate way for me to cheat at Words with Frieds with my girlfriend.
+tech used: Javascript, Bootstrap
+
+MySQL Import
+https://www.npmjs.com/package/mysql-import
+The most popular library on NPM for importing SQL dumps with Node.
+tech used: Node, Javascript, NPM, MySQL
+
+VCard.js
+https://github.com/Pamblam/vcard
+The most complete VCard generator in Javascript.
+tech used: Javascript, VCard
+
+I Hate Xcode dot com
+https://ihatexcode.com/
+I hate Xcode.
+tech used: HTML
+
+Canvas Layers
+https://pamblam.github.io/canvas-layers/examples/basic_example.html
+A tool to allow users to position, scale, and rotate elements on a canvas.
+tech used: Javascript, HTML5 Canvas
+
+GPX Viewer
+https://pamblam.github.io/gpx-viewer/
+Animate and replay my runs using GPX data from my Garmin watch.
+tech used: Open Street Maps, Javascript
+
+Run Planner
+https://pamblam.github.io/run-planner/
+A simple utility to generate a training plan for a race.
+tech used: Javascript
+
+Rock Paper Scissors Battle Royale
+https://pamblam.github.io/rock-paper-scissors/
+A zero player Rock Paper Scissors game in the browser.
+tech used: Javascript, HTML5 Canvas
+
+Tamper Data for FireFox Quantum
+https://addons.mozilla.org/en-US/firefox/addon/tamper-data-for-ff-quantum/
+A Firefox plugin designed to replace the popular, deprecated Tamper Data plugin.
+tech used: Firefox, Javascript
+
+phpDataTables
+https://github.com/Pamblam/phpDataTables
+A wrapper for the popular jQuery Datatables plugin that allows generation of table from an SQL query.
+tech used: MySQL, Oracle SQL, PHP, Javascript, jQuery
+
+Calendar JS
+https://pamblam.github.io/CalendarJS/
+A Javascript library that generates responsive calendar components in the browser.
+tech used: Javascript
+
+I Love Lamp
+https://github.com/Pamblam/iLoveLAMP#ilovelamp
+A browser dashboard for LAMP stacks.
+tech used: Apache, PHP, Javascript, MySQL, Linux
+
+EZ Drag n' Drop
+https://pamblam.github.io/ez-drag-n-drop/docs/
+A library to allow users to drag and drop elements within the DOM.
+tech used: Javascript
+
+PDO Bridge
+https://github.com/Pamblam/PDOBridge
+Use PHP as a proxy to connect to a remote database over port 80/443.
+tech used: PHP, SQL
+
+.CustomDirectoryIndex
+https://github.com/Pamblam/.CustomDirectoryIndex
+Display a custom searchable directory index page with Apache.
+tech used: Apache, PHP, Bootstrap
+
+iCalendar
+https://github.com/Pamblam/iCalendar
+A PHP implementation of the iCalendar spec.
+tech used: undefined
+
+Sacred Geometry in Code
+https://pamblam.github.io/sacred-geometry-in-code/
+Generating patterns with Javascript.
+tech used: Javascript, HTML5 Canvas
+
+ProtoDate
+https://www.npmjs.com/package/protodate
+The fastest Javascript Date library on Earth.
+tech used: Javascript
+
+Thread.js
+https://github.com/Pamblam/Thread.js
+Do multi-threaded operations in Javascript by dynamically generating web workers.
+tech used: Javascript
+
+Coronavirus Simulator
+https://pamblam.github.io/coronavirus-simulator.com/
+A visual tool meant to simulate the outbreak of Covid, written at the start of the pandemic.
+tech used: Javascript, HTML5 Canvas
+
+jSQL: The official Javascript Query Language
+https://pamblam.github.io/jSQL/
+A full featured, persistent SQL implementation written entirely in Jaavscript.
+tech used: Javascript, SQL
+
+Minesweeper
+https://pamblam.github.io/minesweeper/
+A configurable Minesweeper game component for the browser.
+tech used: Javsacript
+
+EasyImage
+https://pamblam.github.io/EasyImage/
+A Pure PHP image generation and modification library, built for legacy systems.
+tech used: PHP
+
+TessCardReader
+https://github.com/Pamblam/TessCardReader
+Reads and parses data from an image of a business card.
+tech used: Tesseract, Optical Character Recognition, PHP
+
+Cropper Tool
+https://pamblam.github.io/Cropper/
+A browser utility to crop images.
+tech used: Javascript, HTML
+
+Tab Composer
+https://pamblam.github.io/tab-composer/public_html/
+A tool for composing music using guitar tab notation in the browser.
+tech used: Javascript
+
+Fretted
+https://pamblam.github.io/Fretted/
+Generate chord chart graphics for stringed instruments.
+tech used: Javascript, HTML5 Canvas
+
+BrowserMirror
+https://github.com/Pamblam/browser-mirror#readme
+Allow users on separate screens to share state on a website without sharing their screens.
+tech used: Bash, Node, Javascript, Websockets
+
+Snek
+https://github.com/Pamblam/snek#readme
+A community-built implementation of the classic Snake game that I started for Hacktoberfest 2018.
+tech used: Javascript, HTML5 Cavnas
+
+HTTP
+https://github.com/Pamblam/HTTP#readme
+A Pure-PHP implementation of the HTTP request protocol. For a legacy system that didn't have cURL available.
+tech used: HTTP, PHP
+
+TinyJWT
+https://github.com/Pamblam/tinyJWT#readme
+The smallest, simplest possible JSON Web Token class.
+tech used: PHP, JWT
+
+Zoomable
+https://github.com/Pamblam/zoomable#readme
+A browser plugin that creates a little magnifier when you mouse over an image.
+tech used: Javascript, HTML5 Canvas
+
+Node API Template
+https://github.com/Pamblam/node-api-template#readme
+Boilerplate for a REST API using Node and Express, including user authentication.
+tech used: Node, Express, MySQL
+
+Crawler
+https://pamblam.github.io/Crawler/
+A web crawler written in PHP
+tech used: PHP, cURL
+
+Number.SE
+https://github.com/Pamblam/number.se#readme
+A library that performs math on large numbers by encoding them as strings.
+tech used: Javascript
+
+Fret Friend
+https://pamblam.github.io/Fret-Friend/
+A web utility to create chord charts for different stringed instruments.
+tech used: Javascript
+
+Musicology
+https://pamblam.github.io/Musicology/
+A tool to generate scales in a given key.
+tech used: Javascript
+
+Rage Quit for Reddit
+https://github.com/Pamblam/rage-quit#readme
+A tool to "Rage Quit" reddit by deleting all your posts and comments before deleting the account itself.
+tech used: Node
+
+OCI2PDO
+https://github.com/Pamblam/OCI2PDO#readme
+A complete wrapper for OCI8 that looks, feels, and smells like standard PDO.
+tech used: PHP, Oracle SQL
+
+Methodus
+https://www.npmjs.com/package/methodus
+A math library for Javascript inspired by Project Euler.
+tech used: Javascript
+
+jSQL Developer
+https://github.com/Pamblam/jsql-devel#readme
+A fun little development tool for jSQL.
+tech used: Javascript, jQuery, jQuery UI, SQL
+
+XHRCreep
+https://github.com/Pamblam/XHRCreep#readme
+A wrapper for XHR that provides hooks to eavesdrop on ajax calls.
+tech used: Javascript
+
+Asearch
+https://github.com/Pamblam/ASearch#readme
+Widget to create advanced database search component in browser.
+tech used: PHP, MySQL, Oracle SQL, Javascript, HTML
+
+PlaceSearch.js
+https://github.com/Pamblam/placeSearch.js#readme
+A place search Javascript library for ten-year-olds.
+tech used: Javascript, Google Maps, jQuery
+
+Who Downvoted Me!?
+https://greasyfork.org/en/scripts/18778-who-downvoted-me/code
+A controversial userscript that tells you who downvoted your StackOverflow answers.
+tech used: Javascript
+
+GoLife
+https://pamblam.github.io/Go-Life/
+A complete implementation of Conway's Game of Life, in browser and in console.
+tech used: Javascript, HTML5 Canvas, jQuery, jQuery UI, Node
+
+Universal Encoder
+https://www.npmjs.com/package/universal-encoder
+Convert any number or ASCII text to any base, using RFC4648 character set or your own custom character sets.
+tech used: Javascript
+
+MiniBeast Mobile App
+https://www.minibeastofficial.com/products/minibeast-recipe-book?selling_plan=4806574240
+A fitness tracker app for MiniBeast Enterprises, LLC
+tech used: Apache Cordova
+
+MiniBeast Web App
+https://minibeastofficial-app.com/
+The in-browser version of the mobile app, which includes administrative functions.
+tech used: Bootstrap, React, MySQL, Apache, Linux, PHP
+
+GetReferralCash Mobile App
+https://getreferralcash.com/
+A program to incentivise customers to refer their friends.
+tech used: Apache Cordova
+
+TruTrak Mobile
+https://play.google.com/store/apps/details?id=com.ourtownamerica.ourtowntrutrak&hl=en_US
+An ROI tracker for Our Town America customers.
+tech used: Flutter, Dart
+
+Our Town Deals
+https://play.google.com/store/apps/details?id=com.ourtownamerica.loyalty.otd&hl=en_US
+A digital coupon book.
+tech used: Apache Cordova
+
+Our Town Sales Companion
+https://play.google.com/store/apps/details?id=com.ourtownamerica.sc
+A field sales tool for the OTA Sales team.
+tech used: Apache Cordova
+
+Raptcha
+https://pamblam.github.io/raptcha/
+A simple, client side CAPTCHA.
+tech used: Javascript, HTML5 Canvas

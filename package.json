@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "add_img.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "screenshots": "node ./scripts/generate_screenshots.js",
+    "prompts": "node ./scripts/generate_prompt.js",
+    "pdfs": "node ./scripts/generate_pdf.js"
   },
   "keywords": [],
   "author": "",
@@ -11,6 +14,7 @@
   "description": "",
   "type": "module",
   "dependencies": {
+    "pdf-lib": "^1.17.1",
     "puppeteer": "^24.2.1"
   }
 }

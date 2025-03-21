@@ -1,0 +1,82 @@
+ROBERT PARHAM
+adelphia@protonmail.ch | Tampa Bay, FL | (813) 616-0819
+linkedin.com/in/robert-parham | robert-parham.com | github.com/pamblam
+
+An experienced Software Engineer and Front-End Developer with a extensive background creating an enhanced End-User Experience across web and mobile digital touch points. Heightened communication skills and advanced technical capabilities in a variety of environments support an ability to manage resources, determine end-user requirements and collaborate in team-centric, outcome-focused efforts. Progressive programming and coding abilities deploying a wide range of platforms complement client-focused design capabilities; elevating and energizing seamless and responsive usability.
+
+
+VALUE ADDED SKILLS
+
+Full Stack Design | Project Management | UI / UX | Web Design | Mobile App Development | UAT | Software Development | User Requirements Analysis | Quality Assurance | Stakeholder Relationship Management | Iterative Prototypes | Server Administration | Troubleshooting | Infrastructure Design | Web Design | Client Relationship Management | Local Area Networks | Product Design and Development
+
+
+PROFESSIONAL EXPERIENCE
+
+MINIBEAST ENTERPRISES
+Orlando, FL | Full Stack Programmer | October 2021 – Present
+
+Profiled by Fox News, CBS, USA Today and Cosmopolitan magazine, a holistic health and wellness enterprise where I successfully:
+
+    Innovated a hybrid mobile app and web app, using Flutter, Cordova, ReactJS, PHP, MySQL and Bash.
+    Manage and program the Linux and Apache server hosted on Digital Ocean while maintaining the Postmark email service via APIs.
+    Structure the S3 content management system using Digital Ocean.
+    Program and schedule automate backups and maintenance tasks.
+    Designed and iterated app-based social groups modeled after Facebook including a body fat percentage calculator and a guided workout function with demo videos.
+
+
+OUR TOWN AMERICA
+Clearwater, FL | Full Stack Programmer | June 2015 – Present
+
+Part of New Mover Direct Mail Marketing, a leading customer loyalty and digital marketing agency. Driving product development focusing on the user experience, I am responsible for:
+
+    Using LLMs to create functional AI assistant with ability to assist with internal company tasks.
+    Developing client User Stories to design and create iterative UI/UX prototypes.
+    Translating high level technical features into prototype designs.
+    Maintaining three distinct client-facing, internal and internal hybrid mobile web apps using Cordova.
+    Creating mapping software to visualizes various demographic and various other data at Zip Code level.
+    Preparing wireframes, storyboards, process flows and site maps and conduct ongoing user testing to support functionality and usability.
+    Managing ongoing experience, A/B, Functionality and Unit Testing.
+    Building and performing updates to the company’s primary website and landing pages.
+    Generating a CRM software which utilizes Twilio API for telephone communications and HelloSign API to send documents for signing by leads and clients.
+
+
+CARNET MARKETING & CUSTOMER TRACK
+Safety Harbor, FL | Product Manager | June 2010 – June 2015
+
+With responsibility for conceptualizing and launching business development and lead generation platforms for a US-wide network of car dealerships, I:
+
+    Designed, tested, and launched company’s proprietary enterprise CRM deploying an advanced knowledge of, and abilities in PHP and MySQL
+    Wrote the code for the company’s Call Center’s dialer software using Twilio, PHP, JavaScript, and MySQL
+    Built and performed regular updates for the company’s physical Linux and Apache servers.
+
+
+COMPLEMENTARY EXPERIENCE
+
+WESTBAY SOFTWARE LLC
+Tampa Bay, FL | Owner / Developer | January 2005 – Present
+
+A self-directed initiative where working with brands including Elite Marketing, Extreme Bio Clean-up, and Monster Flea Market, I am responsible for:
+
+    Creating hybrid mobile apps using PHP, Twilio, Cordova, PHP, Javascript
+    Designing a sales and marketing app that enables companies to incentivize their customers to refer other customers by offering them cash for verified referrals.
+    Writing and maintaining Call Routing software via Twilio
+    Providing extensive IT maintenance and troubleshooting support.
+
+
+EDUCATION AND CERTIFICATIONS
+
+Western Governor's University | Bachelors of Science, Software Engineering | 2025
+St. Petersburg College | Tarpon Springs, FL | Bachelor of Science in Computer Science (incomplete)
+Pinellas Technical Institute | Web Design Principles | 2007
+AWS Certified Cloud Practitioner
+CompTIA Project+ Certified
+
+
+TECHNICAL SKILLSETS
+
+MS Office Suite | JavaScript | PHP | Apache | SQL Linux | Twilio | WordPress | HTML5 Bootstrap | Cordova | Flutter | Dart | Python | ReactJS | Bash | VS Code | My SQL Workbench | Libre Office | VS Code | Mac | Linux | Vector Database | LLM | AI
+
+
+AFFILIATIONS
+
+Member in Good Standing of the Free and Accepted Masons of Florida, supporting a number of local charitable and community development organizations.

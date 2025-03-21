@@ -10,7 +10,7 @@
     "name": "Sudoku Solver",
     "url": "https://github.com/Pamblam/sudoku-solver",
     "technologies": "Dart",
-    "Description": "A command line tool to solve Sudoku puzzles.",
+    "description": "A command line tool to solve Sudoku puzzles.",
     "img": "sudoku-solver.png"
   },
   {
@@ -206,7 +206,7 @@
     "name": "Coronavirus Simulator",
     "url": "https://pamblam.github.io/coronavirus-simulator.com/",
     "technologies": "Javascript, HTML5 Canvas",
-    "descriptions": "A visual tool meant to simulate the outbreak of Covid, written at the start of the pandemic.",
+    "description": "A visual tool meant to simulate the outbreak of Covid, written at the start of the pandemic.",
     "img": "coronavirus-simulator.png"
   },
   {
@@ -439,5 +439,12 @@
     "technologies": "Apache Cordova",
     "description": "A field sales tool for the OTA Sales team.",
     "img": "our-town-sales-companion.png"
+  },
+  {
+    "name": "Raptcha",
+    "url": "https://pamblam.github.io/raptcha/",
+    "technologies": "Javascript, HTML5 Canvas",
+    "description": "A simple, client side CAPTCHA.",
+    "img": "raptcha.png"
   }
 ]
