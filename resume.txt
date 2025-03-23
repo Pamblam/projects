@@ -7,13 +7,13 @@ An experienced Software Engineer and Front-End Developer with a extensive backgr
 
 VALUE ADDED SKILLS
 
-Full Stack Design | Project Management | UI / UX | Web Design | Mobile App Development | UAT | Software Development | User Requirements Analysis | Quality Assurance | Stakeholder Relationship Management | Iterative Prototypes | Server Administration | Troubleshooting | Infrastructure Design | Web Design | Client Relationship Management | Local Area Networks | Product Design and Development
+Full Stack Design | Project Management | UI / UX | Web Design | Mobile App Development | Software Development | User Requirements Analysis | Quality Assurance | Stakeholder Relationship Management | Iterative Prototypes | Server Administration | Troubleshooting | Infrastructure Design | Web Design | Client Relationship Management | Product Design and Development 
 
 
 PROFESSIONAL EXPERIENCE
 
 MINIBEAST ENTERPRISES
-Orlando, FL | Full Stack Programmer | October 2021 – Present
+Orlando, FL | Full Stack Programmer | October 2021 – January 2025
 
 Profiled by Fox News, CBS, USA Today and Cosmopolitan magazine, a holistic health and wellness enterprise where I successfully:
 
@@ -68,13 +68,13 @@ EDUCATION AND CERTIFICATIONS
 Western Governor's University | Bachelors of Science, Software Engineering | 2025
 St. Petersburg College | Tarpon Springs, FL | Bachelor of Science in Computer Science (incomplete)
 Pinellas Technical Institute | Web Design Principles | 2007
-AWS Certified Cloud Practitioner
-CompTIA Project+ Certified
+AWS Certified Cloud Practitioner | February 2025
+CompTIA Project+ Certified | March 2025
 
 
 TECHNICAL SKILLSETS
 
-MS Office Suite | JavaScript | PHP | Apache | SQL Linux | Twilio | WordPress | HTML5 Bootstrap | Cordova | Flutter | Dart | Python | ReactJS | Bash | VS Code | My SQL Workbench | Libre Office | VS Code | Mac | Linux | Vector Database | LLM | AI
+JavaScript | PHP | Apache | MySQL | PostgreSQL | Linux | Twilio | WordPress | HTML5 | Bootstrap | Cordova | Flutter | Dart | Python | ReactJS | Bash | VS Code | Mac | Linux | Vector Database | LLM | AI | RAG Implementation | Java | C# | Oracle SQL | NodeJS | Puppeteer | Vibe Coder | pdfJs
 
 
 AFFILIATIONS

@@ -2,9 +2,6 @@ import fs from 'node:fs';
 import puppeteer from 'puppeteer';
 import { PDFDocument } from 'pdf-lib';
 
-const data = fs.readFileSync('projects.json', 'utf8');
-const projects = JSON.parse(data);
-
 const browser = await puppeteer.launch();
 const page = await browser.newPage();
 await page.setViewport({
@@ -12,17 +9,17 @@ await page.setViewport({
     height: 1123
 });
 
-await page.goto('http://localhost/projects/resume.html', {
+await page.goto('http://localhost/projects/resume2.html', {
 	waitUntil: 'networkidle2',
 });
 
-await make1PagePdf(page, 'resume.pdf');
+await make1PagePdf(page, 'resume2.pdf');
 
-await page.goto('http://localhost/projects/cover.html', {
-	waitUntil: 'networkidle2',
-});
+// await page.goto('http://localhost/projects/cover.html', {
+// 	waitUntil: 'networkidle2',
+// });
 
-await make1PagePdf(page, 'cover.pdf');
+// await make1PagePdf(page, 'cover.pdf');
 
 await browser.close();
 

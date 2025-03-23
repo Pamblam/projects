@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robert Parham - Software Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            background: #fff;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        .container {
+            display: flex;
+            width: 100%;
+            min-height: 100vh;
+            background: #f9f9f9;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .sidebar {
+            width: 30%;
+            background: #005b96;
+            color: #fff;
+            padding: 20px;
+        }
+
+        .sidebar h2 {
+            color: #fff;
+            border-bottom: 1px solid #fff;
+            padding-bottom: 5px;
+        }
+
+        .sidebar .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+
+        .sidebar .skills span {
+            display: flex;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 6px 10px;
+            border-radius: 5px;
+            font-size: 0.9em;
+        }
+
+        .sidebar .skills img {
+            height: 16px;
+            width: auto;
+            margin-right: 6px;
+        }
+
+        .sidebar .certs span {
+            display: flex;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.2);
+            margin: 5px 0;
+            padding: 8px;
+            border-radius: 5px;
+            font-size: 0.9em;
+        }
+
+        .sidebar .certs img {
+            height: 40px;
+            width: auto;
+            margin-right: 10px;
+        }
+
+        .main-content {
+            width: 70%;
+            padding: 20px;
+        }
+
+        header {
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        .contact {
+            font-size: 1em;
+            margin-top: 5px;
+            margin-bottom: 20px;
+        }
+
+        section {
+            margin-bottom: 25px;
+        }
+
+        h2 {
+            color: #005b96;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        .job-title {
+            font-weight: bold;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+            display: flex;
+            align-items: center;
+        }
+
+        .sub-info {
+            font-style: italic;
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .experience-item {
+            margin-bottom: 30px;
+        }
+
+        .logo {
+            height: 40px;
+            width: auto;
+            margin-right: 10px;
+        }
+
+        .edu-cert-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .affiliation {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        @media print {
+            body {
+                background: #fff;
+            }
+            .container {
+                box-shadow: none;
+                margin: 0;
+                padding: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Technical Skills</h2>
+            <div class="skills">
+                <span><img src="http://localhost/projects/tech_logos/javascript.png" alt="JS">JavaScript</span>
+                <span><img src="http://localhost/projects/tech_logos/php.png" alt="PHP">PHP</span>
+                <span><img src="http://localhost/projects/tech_logos/apache.png" alt="Apache">Apache</span>
+                <span><img src="http://localhost/projects/tech_logos/mysql.png" alt="MySQL">MySQL</span>
+                <span><img src="http://localhost/projects/tech_logos/postgres.png" alt="PostgreSQL">PostgreSQL</span>
+                <span><img src="http://localhost/projects/tech_logos/linux.png" alt="Linux">Linux</span>
+                <span><img src="http://localhost/projects/tech_logos/twilio.png" alt="Twilio">Twilio</span>
+                <span><img src="http://localhost/projects/tech_logos/wordpress.png" alt="WordPress">WordPress</span>
+                <span><img src="http://localhost/projects/tech_logos/html.png" alt="HTML5">HTML5</span>
+                <span><img src="http://localhost/projects/tech_logos/bootstrap.png" alt="Bootstrap">Bootstrap</span>
+                <span><img src="http://localhost/projects/tech_logos/cordova.png" alt="Cordova">Cordova</span>
+                <span><img src="http://localhost/projects/tech_logos/flutter.png" alt="Flutter">Flutter</span>
+                <span><img src="http://localhost/projects/tech_logos/dart.png" alt="Dart">Dart</span>
+                <span><img src="http://localhost/projects/tech_logos/python.png" alt="Python">Python</span>
+                <span><img src="http://localhost/projects/tech_logos/react.png" alt="ReactJS">ReactJS</span>
+                <span><img src="http://localhost/projects/tech_logos/bash.png" alt="Bash">Bash</span>
+                <span><img src="http://localhost/projects/tech_logos/vscode.png" alt="VS Code">VS Code</span>
+                <span><img src="http://localhost/projects/tech_logos/mac.png" alt="Mac">Mac</span>
+                <span>LLM</span>
+                <span>🤖 AI</span>
+                <span>RAG Implementation</span>
+                <span><img src="http://localhost/projects/tech_logos/java.png" alt="Java">Java</span>
+                <span><img src="http://localhost/projects/tech_logos/csharp.png" alt="C#">C#</span>
+                <span><img src="http://localhost/projects/tech_logos/oraclesql.png" alt="Oracle SQL">Oracle SQL</span>
+                <span><img src="http://localhost/projects/tech_logos/nodejs.png" alt="NodeJS">NodeJS</span>
+                <span><img src="http://localhost/projects/tech_logos/puppeteer.png" alt="Puppeteer">Puppeteer</span>
+                <span>😄 Vibe Coding</span>
+                <span><img src="http://localhost/projects/tech_logos/pdfjs.png" alt="PDF.js">PDF.js</span>
+            </div>
+
+            <h2>Certifications</h2>
+            <div class="certs">
+                <span><img src="http://localhost/projects/resume_imgs/aws-logo.png" alt="AWS Logo"> AWS Certified Cloud Practitioner</span>
+                <span><img src="http://localhost/projects/resume_imgs/comptia.png" alt="CompTIA Logo"> CompTIA Project+ Certified</span>
+            </div>
+
+            <h2>Affiliations</h2>
+            <div class="affiliation">
+                <img class="logo" src="http://localhost/projects/resume_imgs/star-lodge-masonry.png" alt="Freemason Logo">
+                <span>Free and Accepted Masons of Florida</span>
+            </div>
+            <div class="affiliation">
+                <img class="logo" src="http://localhost/projects/resume_imgs/tampa-devs.png" alt="Tampa Devs Logo">
+                <span>Tampa Devs</span>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <header>
+                <h1>Robert Parham</h1>
+                <div class="contact">
+                    adelphia@protonmail.ch | Tampa Bay, FL | (813) 616-0819<br>
+                    linkedin.com/in/robert-parham | robert-parham.com | github.com/pamblam
+                </div>
+            </header>
+
+            <section>
+                <h2>Professional Summary</h2>
+                <p>
+                    Passionate Software Engineer with over a decade of experience working with multiple programming languages and frameworks. From an early age, I have enjoyed coding and hacking, driven by an enthusiasm for learning new technologies and solving complex problems. I am committed to writing clean, scalable, and efficient code, with a focus on building robust systems and delivering impactful user experiences.
+    			</p>
+            </section>
+
+            <section>
+                <h2>Professional Experience</h2>
+
+                <div class="experience-item">
+                    <div class="job-title"><img class="logo" src="http://localhost/projects/resume_imgs/minibeast.png" alt="Minibeast Logo"> MINIBEAST ENTERPRISES | Software Engineer</div>
+                    <div class="sub-info">Orlando, FL | October 2021 – January 2025</div>
+                    <ul>
+                        <li>Innovated hybrid mobile and web apps using Flutter, Cordova, ReactJS, PHP, MySQL, and Bash.</li>
+                        <li>Managed and programmed Linux/Apache servers on Digital Ocean.</li>
+                        <li>Structured S3 content management systems and automated backups.</li>
+                        <li>Designed social groups with features like body fat calculators and guided workouts with videos.</li>
+                    </ul>
+                </div>
+
+                <div class="experience-item">
+                    <div class="job-title"><img class="logo" src="http://localhost/projects/resume_imgs/our-town-america.png" alt="Our Town America Logo"> OUR TOWN AMERICA | Software Engineer</div>
+                    <div class="sub-info">Clearwater, FL | June 2015 – Present</div>
+                    <ul>
+                        <li>Developed an AI assistant leveraging LLMs for internal operations.</li>
+                        <li>Created iterative UI/UX prototypes and conducted user testing.</li>
+                        <li>Maintained multiple client-facing mobile web apps using Cordova.</li>
+                        <li>Built mapping software for demographic data visualization.</li>
+                        <li>Generated CRM software utilizing Twilio and HelloSign APIs.</li>
+                    </ul>
+                </div>
+
+                <div class="experience-item">
+                    <div class="job-title"><img class="logo" src="http://localhost/projects/resume_imgs/carnet-marketing.png" alt="Carnet Marketing Logo"> CARNET MARKETING & CUSTOMER TRACK | Product Manager</div>
+                    <div class="sub-info">Safety Harbor, FL | June 2010 – June 2015</div>
+                    <ul>
+                        <li>Designed and launched proprietary enterprise CRM with PHP and MySQL.</li>
+                        <li>Developed Call Center dialer software using Twilio, PHP, and JavaScript.</li>
+                        <li>Managed Linux/Apache server infrastructure.</li>
+                    </ul>
+                </div>
+
+                <div class="experience-item">
+                    <div class="job-title"><img class="logo" src="http://localhost/projects/resume_imgs/westbay-software.png" alt="Westbay Software Logo"> WESTBAY SOFTWARE LLC | Owner / Developer</div>
+                    <div class="sub-info">Tampa Bay, FL | January 2005 – Present</div>
+                    <ul>
+                        <li>Created hybrid mobile apps and call routing software via Twilio.</li>
+                        <li>Developed sales and marketing referral apps for client businesses.</li>
+                        <li>Provided IT maintenance and troubleshooting for various clients.</li>
+                    </ul>
+                </div>
+
+            </section>
+
+            <section>
+                <h2>Education</h2>
+                <div class="edu-cert-item">
+                    <img class="logo" src="http://localhost/projects/resume_imgs/wgu.png" alt="WGU Logo">
+                    <span>Western Governor's University | B.Sc. in Software Engineering | 2025</span>
+                </div>
+                <div class="edu-cert-item">
+                    <img class="logo" src="http://localhost/projects/resume_imgs/spc.png" alt="St. Petersburg College Logo">
+                    <span>St. Petersburg College | B.Sc. in Computer Science (incomplete)</span>
+                </div>
+                <div class="edu-cert-item">
+                    <img class="logo" src="http://localhost/projects/resume_imgs/ptec.png" alt="Pinellas Technical College Logo">
+                    <span>Pinellas Technical Institute | Web Design Principles | 2007</span>
+                </div>
+            </section>
+        </div>
+    </div>
+</body>
+
+</html>
