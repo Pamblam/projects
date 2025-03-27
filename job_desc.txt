@@ -1,51 +1,49 @@
-Full job description
+ About the job
 
-AccUsoft, centered on U - authentic, true, and unique
+About Loggerhead Risk Management LLC
 
-Meet Accusoft:
+Loggerhead is a property and casualty insurer that specializes in providing coverage that meets the unique needs of Florida homeowners.
 
-Accusoft is a software development company specializing in content processing, conversion, and automation solutions. We enable users to solve their most complex workflow challenges and gain greater insights from content in any format, and on any device. Embedded in the technologies that power our world, from ATMs and medical imaging devices to enterprise content management solutions and websites used by millions of people, our technology connects people with progress. Visit us at www.accusoft.com.
+We’re a team of insurance professionals with customer service as our core value and we know the importance of attentively serving our policyholders. Loggerhead is powered by modern technology, guided by people who share a commitment to trust, empathy, and always doing what’s right, flexibility, and teamwork.
 
-Join us as PART of our organization:
+Job Description
 
-    Proud of Our Purpose
-    Aligned in Growth
-    Resilient in Change
-    True to Ourselves
+The Solution Engineer at Loggerhead Insurance is responsible for the development and implementation of complex mathematical computations and algorithms supporting policy administration, rating and billing features. This role requires extensive experience in system development using JavaScript programming, particularly in fintech and insurance sectors. Engineer is methodical with a solutions-oriented mindset and is comfortable working both independently and as part of a team.
 
-About The Role
+Key Responsibilities
 
-This role will be a part of our customer retention team working on maintaining and expanding our document viewing solution. You will be a key contributor to the design and development of the server side and client side components, utilizing a range of modern technologies to solve complex challenges and deliver high-quality solutions.
+    Design, develop, and maintain JavaScript-based policy, rating and billing modules.
+    Implement complex mathematical computations and algorithms using JavaScript.
+    Document generation using HTML, Liquid templating engine and JSON data.
+    Develop, maintain, and enhance automated test cases and deployment procedures.
+    Create and maintain technical documentation for solutions.
+    Work with business stakeholders, project managers, and other developers to ensure software meets performance and quality standards while addressing integration and operational requirements. 
+    Ensure the performance, quality, and responsiveness of JavaScript applications.
+    Identify and resolve technical issues.
+    Stay up to date with the latest JavaScript technologies and trends.
 
-Ways You Will Contribute to Our Collective Success
+Required Skills
 
-    Delivers complex solutions that they believe are robust and bug-free
-    Looks at test cases and advises QA on adjacent code/regression impact
-    Identifies problems/risks of own work and others
-    Takes the initiative to fix issues before being assigned them
-    Understands and makes well-reasoned design decisions and tradeoffs in their area; able to work in other areas of the codebase with guidance
-    Mentors junior engineers via pairing, design review, and code review
-    Contributes frequently to Lunch and Learns
-    Seeks empirical evidence through proof of concepts, tests, and external research
-    Participates in all stages of development life cycle
-    Contributes to peer reviews to assure product correctness
-    Writes unit tests for product and production code with a high level of coverage and effectiveness
-    Provides assistance to the Support Team on assigned customer support inquiries/projects; demonstrates customer advocacy
+    Strong understanding of policy, rating and billing systems principles.
+    Expertise in JavaScript and related frameworks, including ES6+ features.
+    Proficiency in programming complex mathematical computations.
+    Knowledge of back-end technologies (e.g., NodeJS, ExpressJS, Tomcat).
+    Proficiency with HTML, CSS and templating Engines (e.g. Liquid, Mustache).
+    Familiarity with version control systems (e.g., Git).
+    Good understanding of RESTful APIs.
+    Familiarity with test-driven development (TDD) and best practices for testing and code quality.
+    Excellent problem-solving skills and attention to detail.
+    Strong communication and teamwork abilities.
 
-The Background and Experience You Need to Support Success
+Qualifications
 
-    Bachelor of Science in Computer Science, Computer Engineering, Electrical Engineering, or other math or computer related disciplines
-    4 or more years of real industry experience in software development in a variety of roles on a variety of projects; or equivalent combination of education and experience.
-    Strong Programming Skills: Proficiency in at least one major programming language commonly used for web development (preferably JavaScript/Node.js, Java and C#).
-    API Development: Deep understanding of web service architectures and API design principles (RESTful APIs). Experience designing, developing, and documenting APIs.
-    Testing: Experience with various testing methodologies (unit testing, integration testing, end-to-end testing) and testing frameworks.
-    DevOps: Experience with CI/CD pipelines (preferably GitLab), containerization (Docker), and orchestration (Kubernetes).
-    Microservices: Understanding of microservices architecture and its implications for web service development.
-    Performance Optimization: Ability to analyze and optimize web service performance, including caching, load balancing, and database optimization.
-    Data Management: Knowledge of database technologies (SQL and NoSQL databases), data modeling, and data management techniques.
-    Software Engineering Principles: Solid understanding of software development methodologies (Agile), design patterns, and best practices for writing clean, maintainable code.
-    Version Control: Proficiency with Git and version control systems (e.g., GitLab and GitHub).
-    Security: Understanding of web security best practices, including authentication, authorization, and common vulnerabilities (OWASP Top 10).
-    Preferred Cloud Technologies: Familiarity with cloud platforms (AWS, Azure, GCP) and cloud-native development principles.
-    Preferred Specific Frameworks: Experience with relevant web frameworks (e.g., Spring Boot for Java, Django/Flask for Python, Express.js for Node.js, Ruby on Rails).
-    PreferredContributions: Contributions to open-source projects.
+    Bachelor’s degree in computer science, or a related field.
+    Minimum of 5 years of experience in JavaScript development.
+    Proven ability to program complex mathematical computations.
+    Strong analytical and quantitative skills.
+    Insurance industry knowledge is a plus.
+    Socotra, Guidewire or Duck Creek experience is a plus.
+
+Why Join Us?
+
+In our team of Insurance and Technology experts, you'll be welcomed into an inclusive, supportive workplace where each person’s contribution is valued. We encourage an open and respectful environment, aiming to balance ambition and collaboration. Plus, with our hybrid work model, you’ll enjoy the flexibility of both remote and office work. Be part of a team that builds, learns, and celebrates each other's successes.

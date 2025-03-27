@@ -9,17 +9,17 @@ await page.setViewport({
     height: 1123
 });
 
-await page.goto('http://localhost/projects/resume2.html', {
-	waitUntil: 'networkidle2',
-});
-
-await make1PagePdf(page, 'resume2.pdf');
-
-// await page.goto('http://localhost/projects/cover.html', {
+// await page.goto('http://localhost/projects/resume2.html', {
 // 	waitUntil: 'networkidle2',
 // });
 
-// await make1PagePdf(page, 'cover.pdf');
+// await make1PagePdf(page, 'resume2.pdf');
+
+await page.goto('http://localhost/projects/cover.html', {
+	waitUntil: 'networkidle2',
+});
+
+await make1PagePdf(page, 'cover.pdf');
 
 await browser.close();
 

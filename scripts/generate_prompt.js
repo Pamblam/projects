@@ -12,13 +12,9 @@ ${jobdesc}
 
 # Resume
 
-${resume}
+${resume}`); 
 
-# Projects
-
-${projects.map(p=>`${p.name}\n${p.url}\n${p.description}\ntech used: ${p.technologies}`).join("\n\n")}`); 
-
-fs.writeFileSync("prompt_cover.txt", `Using the following job description, resume, and project list, please create a cover letter tailored to the given job description. Include the most relevant details from the provided resume and project list. Please format the cover letter in HTML as a complete HTML document including any CSS. The HTML will be converted to a PDF so please do not use any links.
+fs.writeFileSync("prompt_cover.txt", `Using the following job description and resume, please create a cover letter tailored to the given job description. Include the most relevant details from the provided resume. Please format the cover letter in HTML as a complete HTML document including any CSS. The HTML will be converted to a PDF so please do not use any links. Be sure to address the company by name in the cover letter.
 
 # Job Description 
 
@@ -26,8 +22,4 @@ ${jobdesc}
 
 # Resume
 
-${resume}
-
-# Projects
-
-${projects.map(p=>`${p.name}\n${p.url}\n${p.description}\ntech used: ${p.technologies}`).join("\n\n")}`); 
+${resume}`); 
