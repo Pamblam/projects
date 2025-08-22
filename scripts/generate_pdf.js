@@ -9,17 +9,17 @@ await page.setViewport({
     height: 1123
 });
 
-// await page.goto('http://localhost/projects/resume_echo.html', {
-// 	waitUntil: 'networkidle2',
-// });
-
-// await make1PagePdf(page, 'echo-parham-resume-2025-08-21.pdf');
-
-await page.goto('http://localhost/projects/cover_echo.html', {
+await page.goto('http://localhost/projects/resume_echo.html', {
 	waitUntil: 'networkidle2',
 });
 
-await make1PagePdf(page, 'cover_echo.pdf');
+await make1PagePdf(page, 'echo-parham-resume-2025-08-22.pdf');
+
+// await page.goto('http://localhost/projects/cover_echo.html', {
+// 	waitUntil: 'networkidle2',
+// });
+
+// await make1PagePdf(page, 'cover_echo.pdf');
 
 await browser.close();
 

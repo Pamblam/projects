@@ -183,7 +183,7 @@
   {
     "name": "iCalendar",
     "url": "https://github.com/Pamblam/iCalendar",
-    "technologoes": "PHP",
+    "technologies": "PHP",
     "description": "A PHP implementation of the iCalendar spec.",
     "img": "icalendar.png"
   },
