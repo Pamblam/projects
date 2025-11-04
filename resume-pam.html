@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robert Parham - Software Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            background: #fff;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        .container {
+            display: flex;
+            width: 100%;
+            min-height: 100vh;
+            background: #f9f9f9;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .sidebar {
+            width: 30%;
+            background: #005b96;
+            color: #fff;
+            padding: 20px;
+        }
+
+        .sidebar h2 {
+            color: #fff;
+            border-bottom: 1px solid #fff;
+            padding-bottom: 5px;
+        }
+
+        .sidebar .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+
+        .sidebar .skills span {
+            display: flex;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 6px 10px;
+            border-radius: 5px;
+            font-size: 0.9em;
+        }
+
+        .sidebar .skills img {
+            height: 16px;
+            width: auto;
+            margin-right: 6px;
+        }
+
+        .sidebar .certs span {
+            display: flex;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.2);
+            margin: 5px 0;
+            padding: 8px;
+            border-radius: 5px;
+            font-size: 0.9em;
+        }
+
+        .sidebar .certs img {
+            height: 40px;
+            width: auto;
+            margin-right: 10px;
+        }
+
+        .main-content {
+            width: 70%;
+            padding: 20px;
+        }
+
+        header {
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        .contact {
+            font-size: 1em;
+            margin-top: 5px;
+            margin-bottom: 20px;
+        }
+
+        section {
+            margin-bottom: 25px;
+        }
+
+        h2 {
+            color: #005b96;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        .job-title {
+            font-weight: bold;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+            display: flex;
+            align-items: center;
+        }
+
+        .sub-info {
+            font-style: italic;
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .experience-item {
+            margin-bottom: 30px;
+        }
+
+        .logo {
+            height: 40px;
+            width: auto;
+            margin-right: 10px;
+        }
+
+        .edu-cert-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .affiliation {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        @media print {
+            body {
+                background: #fff;
+            }
+            .container {
+                box-shadow: none;
+                margin: 0;
+                padding: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Technical Skills</h2>
+            <div class="skills">
+                <span><img src="http://localhost/projects/tech_logos/tenable.jpg"> Tenable</span>
+				<span><img src="http://localhost/projects/tech_logos/cs.png"> CrowdStrike</span>
+				<span><img src="http://localhost/projects/tech_logos/armis.png"> Armis</span>
+				<span>TCP/IP</span>
+				<span>OSI Model</span>
+				<span>DNS</span>
+				<span>VPNs</span>
+				<span>Firewalls</span>
+				<span>Wireshark</span>
+				<span><img src="http://localhost/projects/tech_logos/linux.png"> Linux</span>
+				<span><img src="http://localhost/projects/tech_logos/windows.png"> Windows</span>
+				<span>Remote Desktop</span>
+				<span>Command Line</span>
+				<span>Technical Troubleshooting</span>
+				<span>Log Analysis</span>
+				<span>Ticketing Systems</span>
+				<span><img src="http://localhost/projects/tech_logos/kb4.png"> KnowBe4</span>
+				<span><img src="http://localhost/projects/tech_logos/python.png"> Python</span>
+				<span><img src="http://localhost/projects/tech_logos/r.jpg"> R Lang</span>
+				<span>SQL</span>
+				<span>Git</span>
+				<span><img src="http://localhost/projects/tech_logos/git.jpg"> GitHub</span>
+				<span>Bash</span>
+				<span><img src="http://localhost/projects/tech_logos/tableau.png"> Tableau</span>
+				<span>SaaS</span>
+				<span><img src="http://localhost/projects/tech_logos/java.png"> Java</span>
+				<span><img src="http://localhost/projects/tech_logos/c.png"> C Lang</span>
+				<span>Cybersecurity</span>
+				<span>Incident Documentation</span>
+				<span>User Access Support</span>
+				<span>Vulnerability Detection</span>
+				<span>Team Management</span>
+				<span><img src="http://localhost/projects/tech_logos/excel.jpg"> MS Excel</span>
+            </div>
+
+            <h2>Certifications</h2>
+            <div class="certs">
+                <span><img src="http://localhost/projects/resume_imgs/comptia.png" alt="CompTIA Logo"> CompTIA Security+</span>
+				<span><img src="http://localhost/projects/resume_imgs/comptia.png" alt="CompTIA Logo"> CompTIA IT Operations Specialist</span>
+				<span><img src="http://localhost/projects/resume_imgs/comptia.png" alt="CompTIA Logo"> CompTIA Network+</span>
+				<span><img src="http://localhost/projects/resume_imgs/comptia.png" alt="CompTIA Logo"> CompTIA A+</span>
+            </div>
+
+            <h2>Affiliations</h2>
+            <div class="affiliation">
+                <img class="logo" src="http://localhost/projects/resume_imgs/wicys.jpg">
+                <span>Women in Cybersecurity (WiCys)</span>
+            </div>
+			<div class="affiliation">
+                <img class="logo" src="http://localhost/projects/resume_imgs/ths.jpg">
+                <span>Tampa Hackerspace</span>
+            </div>
+            <div class="affiliation">
+                <img class="logo" src="http://localhost/projects/resume_imgs/tampa-devs.png" alt="Tampa Devs Logo">
+                <span>Tampa Devs</span>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <header>
+                <h1>Pamela Mishaw</h1>
+                <div class="contact">
+                    pjm32@students.uwf.edu | (813) 703-5515 | linkedin.com/in/pamela-j-mishaw
+                </div>
+            </header>
+
+            <section>
+                <h2>Professional Summary</h2>
+                <p>
+                    Networking professional with expertise in configuring, monitoring, and securing enterprise systems across Linux and Windows environments. Skilled in TCP/IP, DNS, VPNs, firewalls, and network troubleshooting with tools such as Wireshark, Tenable, and CrowdStrike. Experienced in user access management, incident documentation, and integrating secure interfaces in healthcare and enterprise IT settings. Proven ability to optimize performance, strengthen security, and support reliable connectivity across complex infrastructures.
+    			</p>
+            </section>
+
+            <section>
+                <h2>Professional Experience</h2>
+
+                <div class="experience-item">
+                    <div class="job-title"><img class="logo" src="http://localhost/projects/resume_imgs/polk.jpg"> POLK COUNTY | IT Cybersecurity Analyst</div>
+                    <div class="sub-info">Bartow, FL | June 2025 – Present</div>
+                    <ul>
+                        <li>Perform vulnerability scanning using industry tools and compile remediation tracking reports.</li>
+                        <li>Support the administration of the security awareness training program and assist in content updates.</li>
+                        <li>Monitor and analyze network security events using SIEM tools.</li>
+                    </ul>
+                </div>
+
+                <div class="experience-item">
+                    <div class="job-title"><img class="logo" src="http://localhost/projects/resume_imgs/lrh.png"> LAKELAND REGIONAL MEDICAL CENTER | Clinical Informatics Specialist</div>
+                    <div class="sub-info">Lakeland, FL | November 2024 – June 2025</div>
+                    <ul>
+                        <li>Supported Laboratory Information System (LIS) operations including user permissions and access provisioning.</li>
+                        <li>Conducted system testing, validation, and change control processes to ensure compliance with CAP and HIPAA standards.</li>
+                        <li>Investigated and resolved end-user software issues, misconfigurations, and system access problems.</li>
+                    </ul>
+                </div>
+
+                <div class="experience-item">
+                    <div class="job-title"><img class="logo" src="http://localhost/projects/resume_imgs/moffit.JPG"> VARIOUS HOSPITALS | Medical Technologist</div>
+                    <div class="sub-info">Central FL | February 2021 – Present</div>
+                    <ul>
+                        <li>Collaborated with IT teams to troubleshoot LIS connectivity, lab instrumentation interfaces, and secure data transfers.</li>
+                        <li>Monitored, validated, and maintained integrity of patient data in compliance with HIPAA and CAP standards.</li>
+                        <li>Conducted system diagnostics and documented incidents to support uptime, workflow optimization, and audit readiness.</li>
+						<li>Leveraged SQL, spreadsheets, and reporting tools to track quality control metrics and ensure secure, accurate data management.</li>
+                    </ul>
+                </div>
+
+            </section>
+
+            <section>
+                <h2>Education</h2>
+                <div class="edu-cert-item">
+                    <img class="logo" src="http://localhost/projects/resume_imgs/uwf.webp">
+                    <span>University of West Florida | Master of Science, Computer Science | Expected 2026</span>
+                </div>
+				<div class="edu-cert-item">
+                    <img class="logo" src="http://localhost/projects/resume_imgs/uwf.webp">
+                    <span>University of West Florida | Master of Science, Data Science | 2024</span>
+                </div>
+                <div class="edu-cert-item">
+                    <img class="logo" src="http://localhost/projects/resume_imgs/usf.jpg">
+                    <span>University of South Florida | Bachelor of Science, Biomedical Sciences | 2018</span>
+                </div>
+            </section>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -13,7 +13,7 @@ await page.goto('http://localhost/projects/resume2.html', {
 	waitUntil: 'networkidle2',
 });
 
-await make1PagePdf(page, 'robert-parham-resume-2025-09-17.pdf');
+await make1PagePdf(page, 'robert-parham-resume-2025-10-04.pdf');
 
 // await page.goto('http://localhost/projects/cover_echo.html', {
 // 	waitUntil: 'networkidle2',
